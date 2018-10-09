@@ -1,3 +1,3 @@
 # VideoGameCatalog
 Java program prompting user for Video Game information
-Windows applicaton that ask the user for data entry about their Video games.
+Simple Windows application that asks the user for data about their Video games.
